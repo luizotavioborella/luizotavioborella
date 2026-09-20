@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Luiz Otávio Borella 👋
 
-<!--
-**luizotavioborella/luizotavioborella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems Development student at SENAI, interested in web development, programming and databases.
 
-Here are some ideas to get you started:
+🎓 Systems Development — SENAI  
+🎓 High School — SESI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-292D3E?style=flat&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-292D3E?style=flat&logo=css&logoColor=663399)
+![JavaScript](https://img.shields.io/badge/-JavaScript-292D3E?style=flat&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/-Python-292D3E?style=flat&logo=python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/-Flask-292D3E?style=flat&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-292D3E?style=flat&logo=database&logoColor=white)
+![Firebird](https://img.shields.io/badge/-Firebird-292D3E?style=flat&logo=firebird&logoColor=orange)
+
+![Figma](https://img.shields.io/badge/-Figma-292D3E?style=flat&logo=figma&logoColor=F24E1E)
+![Trello](https://img.shields.io/badge/-Trello-292D3E?style=flat&logo=trello&logoColor=0052CC)
+![DBeaver](https://img.shields.io/badge/-DBeaver-292D3E?style=flat&logo=dbeaver&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-292D3E?style=flat&logo=visualstudiocode&logoColor=007ACC)
+![PyCharm](https://img.shields.io/badge/-PyCharm-292D3E?style=flat&logo=pycharm&logoColor=21D789)
+
+## 🔗 Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-292D3E?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/luizotavioborella)
