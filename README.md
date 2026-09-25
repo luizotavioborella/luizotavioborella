@@ -10,6 +10,7 @@ I'm a Systems Development student at SENAI, interested in web development, progr
 ![HTML](https://img.shields.io/badge/-HTML-292D3E?style=flat&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-292D3E?style=flat&logo=css&logoColor=663399)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-292D3E?style=flat&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/-C-292D3E?style=flat&logo=c&logoColor=A8B9CC)
 ![Python](https://img.shields.io/badge/-Python-292D3E?style=flat&logo=python&logoColor=3776AB)
 ![Flask](https://img.shields.io/badge/-Flask-292D3E?style=flat&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-292D3E?style=flat&logo=database&logoColor=white)
