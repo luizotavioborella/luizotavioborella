@@ -2,60 +2,29 @@
 
 # Luiz Otávio Borella
 
-### SYSTEMS DEVELOPMENT STUDENT · WEB DEVELOPMENT · DATABASES
+### SYSTEMS DEVELOPMENT STUDENT · WEB DEVELOPMENT
 
-Learning by building. Turning ideas into projects, one step at a time.
+Aprendendo na prática. Transformando ideias em projetos.
 
-<p>
-  <a href="https://www.linkedin.com/in/luizotavioborella">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Luiz on LinkedIn" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/luizotavioborella">
+  <img src="https://img.shields.io/badge/LinkedIn-Vamos_conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conversar no LinkedIn" />
+</a>
 
-Systems Development at SENAI &nbsp; / &nbsp; High School at SESI &nbsp; / &nbsp; Brazil
+<br /><br />
+
+Desenvolvimento de Sistemas — SENAI &nbsp; / &nbsp; Ensino Médio — SESI
 
 </div>
 
 ---
 
-## Code, curiosity, and practice.
+## Sobre mim
 
-I'm a Systems Development student at SENAI and a high school student at SESI, interested in web development, programming, and databases.
+Sou estudante de Desenvolvimento de Sistemas no SENAI e do Ensino Médio no SESI. Tenho interesse em desenvolvimento web, programação e bancos de dados.
 
-I'm learning how the pieces of an application fit together: building interfaces, writing backend logic, and organizing data. My projects are a space to put classroom concepts into practice and improve as I learn.
+Gosto de colocar em prática o que aprendo, entender como cada parte de uma aplicação funciona e evoluir meus projetos com novos conhecimentos.
 
-> Each project is a chance to understand something new — and build something better than the last one.
-
-## What I'm building
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💰 Bolso em Dia
-
-A personal finance web application for organizing income, expenses, worked days, and extra services.
-
-Includes balance calculations, financial projections, and reports. Developed during my Systems Development course and evolving as I learn new concepts.
-
-`Python` · `Flask` · `JavaScript` · `SQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌍 ATLAS 2075
-
-An educational geography game featuring an interactive 3D globe and decisions that affect demographic indicators.
-
-Created as a school assignment with the requirement to use AI throughout development. My role involved providing requirements, guiding the process through prompts, and requesting revisions.
-
-`HTML` · `CSS` · `JavaScript` · `AI-generated project`
-
-</td>
-</tr>
-</table>
-
-## My toolbox
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
@@ -68,45 +37,18 @@ Created as a school assignment with the requirement to use AI throughout develop
   <img src="https://img.shields.io/badge/Firebird-E65C00?style=flat-square&logo=firebird&logoColor=white" alt="Firebird" />
 </p>
 
-| Area | Technologies & tools |
-| :--- | :--- |
-| Frontend | HTML, CSS, JavaScript |
-| Backend & programming | Python, Flask, C |
-| Databases | SQL, Firebird, DBeaver |
-| Design & organization | Figma, Trello |
-| Development environment | VS Code, PyCharm |
+**Tools:** Figma · Trello · DBeaver · VS Code · PyCharm
 
-## What I'm learning
+## 💰 Projeto em destaque — Bolso em Dia
 
-- Building web applications that connect interfaces, backend logic, and databases.
-- Working with data through SQL and relational databases.
-- Organizing code and improving projects as I learn.
-- Exploring AI-assisted development through school activities.
+Sistema web de gestão financeira pessoal, com controle de receitas, despesas, serviços extras e projeções financeiras.
 
-<details>
-<summary><strong>🎓 Education</strong></summary>
+Desenvolvido durante o curso no SENAI e aprimorado conforme novos conceitos são aprendidos.
 
-<br />
-
-- Systems Development — SENAI · In progress
-- High School — SESI · In progress
-
-</details>
+`Python` · `Flask` · `JavaScript` · `SQL`
 
 ---
 
 <div align="center">
-
-### Let's connect.
-
-Always learning, building, and looking for ways to improve.
-
-<a href="https://www.linkedin.com/in/luizotavioborella">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<br /><br />
-
-<sub>From classroom concepts to projects of my own.</sub>
-
+  <sub>Learning by building. Um projeto de cada vez.</sub>
 </div>
